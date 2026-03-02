@@ -1,4 +1,4 @@
-name: 'Run TryNarrative Tests'
+name: 'Run Narrative Tests'
 description: 'Trigger AI QA tests securely via GitHub App'
 
 inputs:
